@@ -10,6 +10,6 @@ In this repo, you will find all projects or programs in the field of quantitativ
  
  
  3. [Monte Carlo Simulation](https://github.com/narayan47/Finance/blob/main/Monte%20Carlo.ipynb) 
- <img src="https://github.com/narayan47/Finance/blob/main/test.gif" width="40" height="40" />
+ <img src="https://github.com/narayan47/Finance/blob/main/test.gif" width="200" height="200" />
  
 
