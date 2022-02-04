@@ -9,7 +9,7 @@ In this repo, you will find all projects or programs in the field of quantitativ
  The Capital Asset Pricing Model (CAPM) gives the relationship between systematic risk and [expected return](https://www.investopedia.com/terms/e/expectedreturn.asp) for assets, particularly stocks.
  
  
- 3. [Monte Carlo Simulation](https://github.com/narayan47/Finance/blob/main/Monte%20Carlo.ipynb) 
+ 3. [Monte Carlo Simulation and $\pi$ estimation](https://github.com/narayan47/Finance/blob/main/Monte%20Carlo.ipynb) 
  <img src="https://github.com/narayan47/Finance/blob/main/test.gif"/>
  
 
