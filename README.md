@@ -7,5 +7,8 @@ In this repo, you will find all projects or programs in the field of quantitativ
  2. [Capital Asset Pricing Model](https://github.com/narayan47/Finance/blob/main/CAPM.ipynb)
  The Capital Asset Pricing Model (CAPM) gives the relationship between systematic risk and [expected return](https://www.investopedia.com/terms/e/expectedreturn.asp) for assets, particularly stocks.
  3. [Monte Carlo Simulation and pie value estimation](https://github.com/narayan47/Finance/blob/main/Monte%20Carlo.ipynb)
- <img src = "https://github.com/narayan47/Finance/blob/main/test.gif"/> 
+ <img src = "https://github.com/narayan47/Finance/blob/main/test.gif"/>
+ 4. [Black-Scholes model for European Option Pricing with Monte Carlo](https://github.com/narayan47/Finance/blob/main/BSM.ipynb)
+
+
 
