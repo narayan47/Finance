@@ -9,6 +9,8 @@ In this repo, you will find all projects or programs in the field of quantitativ
  
  3. [Monte Carlo Simulation and pie value estimation](https://github.com/narayan47/Finance/blob/main/Monte%20Carlo.ipynb)
 
- 4. [Black-Scholes model for European option pricing with Monte Carlo](https://github.com/narayan47/Finance/blob/main/BSM.ipynb)
+ 4. [Black-Scholes model for European option pricing with Monte Carlo algorithm](https://github.com/narayan47/Finance/blob/main/BSM.ipynb)
+ 5. [Solution of Black-Scholes model using Finite Element Method - Europen Call](https://github.com/narayan47/Finance/blob/main/FEM_1D_BS_Euro_Call.ipynb)
+ 6. [Solution of Black-Scholes model using Finite Element Method - Europen Put](https://github.com/narayan47/Finance/blob/main/FEM_1D_BS_Euro_Put.ipynb)
 
 
